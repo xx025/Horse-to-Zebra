@@ -1,0 +1,6 @@
+data/horse2zebra_0.4.0.onnx
+data/horse2zebra_0.4.011.pth
+flagged/
+__pycache__
+.idea
+*.pth
