@@ -29,4 +29,4 @@ python app.py
 
 ### 3. Test
 
-![img.png](data/img.png)
+![img.png](data/img.gif)
